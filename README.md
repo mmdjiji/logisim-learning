@@ -8,7 +8,7 @@ When you start Logisim, you will see follows:
 
 ![avatar](https://cdn.jsdelivr.net/gh/mmdjiji/logisim-learning@main/assets/logisim_start.png)
 
-And Logisim has three parts:
+And Logisim has five parts:
 
 ![avatar](https://cdn.jsdelivr.net/gh/mmdjiji/logisim-learning@main/assets/logisim_parts.png)
 

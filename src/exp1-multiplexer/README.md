@@ -69,7 +69,7 @@ After learning how to package circuit, I try to make a comparator, like the pict
 
 ![Comparator Demo](https://cdn.jsdelivr.net/gh/mmdjiji/logisim-learning@main/assets/exp1_comparator_demo.png)
 
-I did four model, see source here:
+I did four models, see source here:
 
 * [parallel_signed_4-bit_comparator](parallel_signed_4-bit_comparator.circ)
 * [parallel_unsigned_4-bit_comparator](parallel_unsigned_4-bit_comparator.circ)

@@ -19,7 +19,6 @@ And Logisim has five parts:
 2. [ALU](src/exp2-alu/)
 3. [Register File](src/exp3-register-file/)
 4. [Single Cycle CPU](src/exp4-single-cycle-cpu/)
-5. [RAM](src/exp5-ram/)
 
 ## License
 Open source by [GNU GPLv3.0](https://choosealicense.com/licenses/gpl-3.0/) license.

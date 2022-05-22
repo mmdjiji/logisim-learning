@@ -2,7 +2,7 @@
 
 A register file is an array of processor registers in a central processing unit (CPU). Modern integrated circuit-based register files are usually implemented by way of fast static RAMs with multiple ports. Such RAMs are distinguished by having dedicated read and write ports, whereas ordinary multiported SRAMs will usually read and write through the same ports.
 
-![Register File](https://cdn.jsdelivr.net/gh/mmdjiji/logisim-learning@main/assets/exp3_register_file.png)
+![Register File](../../assets/exp3_register_file.png)
 
 |Interface|Function|
 |-|-|
@@ -16,7 +16,7 @@ A register file is an array of processor registers in a central processing unit 
 
 ## The circuit
 
-![The Circuit](https://cdn.jsdelivr.net/gh/mmdjiji/logisim-learning@main/assets/exp3_the_circuit.png)
+![The Circuit](../../assets/exp3_the_circuit.png)
 
 
 ## Test
@@ -31,4 +31,4 @@ A register file is an array of processor registers in a central processing unit 
 
 ## Add Reset
 
-![Add Reset](https://cdn.jsdelivr.net/gh/mmdjiji/logisim-learning@main/assets/exp3_add_reset.png)
+![Add Reset](../../assets/exp3_add_reset.png)

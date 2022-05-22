@@ -4,10 +4,10 @@ A single cycle cpu executes each instruction in one cycle. In other words, one c
 
 Each cycle requires some constant amount of time. this means we will spend the same amount of time to execute every instruction [one cycle], regardless of how complex our instructions may be. To ensure that our processor operates correctly, our slowest instruction must be able to complete execution correctly in one clock tick. This is the big disadvantage of single cycle cpu's: the machine must operate at the speed of the slowest instruction. The big advantage of single cycle cpu's is that they are easy to implement.
 
-![Single Cycle CPU](https://cdn.jsdelivr.net/gh/mmdjiji/logisim-learning@main/assets/exp4_single_cycle_cpu.png)
+![Single Cycle CPU](../../assets/exp4_single_cycle_cpu.png)
 
 ## The Circuit
-![The Circuit](https://cdn.jsdelivr.net/gh/mmdjiji/logisim-learning@main/assets/exp4_the_circuit.png)
+![The Circuit](../../assets/exp4_the_circuit.png)
 
 
 ## Test

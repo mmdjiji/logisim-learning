@@ -2,7 +2,7 @@
 
 ALU (arithmetic logic unit) is a combinational digital circuit that performs arithmetic and bitwise operations on integer binary numbers.
 
-![ALU](https://cdn.jsdelivr.net/gh/mmdjiji/logisim-learning@main/assets/exp2_alu.png)
+![ALU](../../assets/exp2_alu.png)
 
 ## Definition
 
@@ -32,7 +32,7 @@ ALU (arithmetic logic unit) is a combinational digital circuit that performs ari
 
 ## The Circuit
 
-![The Circuit](https://cdn.jsdelivr.net/gh/mmdjiji/logisim-learning@main/assets/exp2_the_circuit.png)
+![The Circuit](../../assets/exp2_the_circuit.png)
 
 ## Test
 

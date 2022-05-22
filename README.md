@@ -6,11 +6,11 @@ Logisim should run on any platform supporting Java, version 5 or later. You can 
 ## Introduction
 When you start Logisim, you will see follows:
 
-![avatar](https://cdn.jsdelivr.net/gh/mmdjiji/logisim-learning@main/assets/logisim_start.png)
+![avatar](assets/logisim_start.png)
 
 And Logisim has five parts:
 
-![avatar](https://cdn.jsdelivr.net/gh/mmdjiji/logisim-learning@main/assets/logisim_parts.png)
+![avatar](assets/logisim_parts.png)
 
 ## Experiments
 
